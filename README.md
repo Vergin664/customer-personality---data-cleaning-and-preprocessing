@@ -4,6 +4,7 @@
 This repository contains the **data cleaning and preprocessing pipeline** for the *Customer Personality Analysis* dataset. The goal of this task is to convert raw customer data into a clean, structured format ready for exploratory analysis or machine learning modeling.
 
 **Dataset Overview:**
+
 **Dataset Name:** marketing_campaign  
 **Rows:** 2,240  
 **Columns:** 29  
